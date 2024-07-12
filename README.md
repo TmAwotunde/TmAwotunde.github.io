@@ -1,3 +1,0 @@
-# Web Development
-
-## HTML Cheatsheet
